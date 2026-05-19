@@ -1,3 +1,7 @@
+trojan://humanity@130.185.72.85:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#Argo_vpnn_13
+trojan://humanity@217.114.40.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Argo_vpnn_9
+trojan://humanity@109.122.246.181:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Argo_vpnn_9
+trojan://humanity@185.239.3.18:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Argo_vpnn_9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUFlSTmZSbHN4d3lKeWxVSlROQTZ0@56.228.3.180:44604#none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#%F0%9F%87%A6%F0%9F%87%AA%20plain%20%F0%9F%87%B8%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4%20plain%20%F0%9F%87%B8%F0%9F%87%B8
